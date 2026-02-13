@@ -1,0 +1,2 @@
+# WPF-TeamManager-App
+Desktop
