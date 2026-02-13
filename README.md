@@ -1,2 +1,2 @@
 # WPF-TeamManager-App
-Desktop
+Desktop application built with C# and WPF for team management and data organization.
